@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_eyes">You see with your eyes.</string>
+    <string name="question_million">There are ten zeros in the number one million.</string>
+    <string name="question_square_root">The square root of one hundred is five.</string>
+    <string name="question_water">Water is also called H2O.</string>
+    <string name="question_ice">Ice is made out of glass.</string>
+    <string name="question_rainbow">If you mix all the colors of the rainbow together you get white.</string>
+    <string name="question_math">Twenty minus thirty plus ten equals zero.</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="text_credit">Made By: Karan Jariwala</string>
+</resources>
